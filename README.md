@@ -11,4 +11,3 @@ for installations:
 
 *necessary to create kaggle API token key:to upload for code to run (dataset on kaggle)*
 
-![Screenshot 2025-03-16 092524](https://github.com/user-attachments/assets/7262e558-c07d-454a-9adf-90ce2f641ab9)
